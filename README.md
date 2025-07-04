@@ -4,7 +4,7 @@
 
 <br>
 
-<img align="right" alt="Sofia's gif" width="280"  Style="border-radius: 15px;" src="https://i.postimg.cc/Kjs9sR8y/sofi-with-bg.gif">
+<img align="right" alt="Sofia's gif" width="280"  Style="border-radius: 15px;" src="https://i.postimg.cc/Wz2LPFVF/sofi-without-bg.gif">
 
 
 - 🎓 I'm **Sofia Libertad**, a Mechatronics Engineer based in Colombia.
