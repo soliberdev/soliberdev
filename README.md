@@ -31,8 +31,8 @@
 <h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3hhdTJqMHk5aHByazVjZmo0ODJicXJyYjdjNXk3MGl0MTIzZTM1ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/tAHoHHnLqadXaeqH8K/giphy.gif" width="45" style="vertical-align: middle;"> Let's connect</h2>
 
 <p align="center">
-    <a href="mailto:soliber.dev@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/sofia-libertad-montoya-herrera-9373ba2ab/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
+    <a href="mailto:soliber.dev@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail" width="65"/></a>
+	<a href="https://www.linkedin.com/in/sofia-libertad-montoya-herrera-9373ba2ab/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn" width="65"/></a>
 </p>
 
 <h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnY2NnFnOWc2MDNkcjhlc2ZtYmo5Nzc5ZWhxdHdvZXhnbjdzbGpwNSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/q04LWeH7IDaZsDkBkf/giphy.gif" width="35" style="vertical-align: middle;"> A quote that inspires me</h2>
