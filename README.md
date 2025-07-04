@@ -2,7 +2,7 @@
 
 <h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFyMnB1Z3llcTN0dms4Z254NXBydnpkZWNrczBma3dnOGxheGYxZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QXPqYpSyBIMjBTtBbl/giphy.gif" width="45">  A passionate Front-End Developer based in Colombia</h2>
 
-<br>
+<br><br>
 
 <img align="right" alt="Sofia's gif" width="240" src="https://i.postimg.cc/Wz2LPFVF/sofi-without-bg.gif">
 
