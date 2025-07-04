@@ -15,7 +15,7 @@
 
 - 💡 Always curious, always learning.
 
-<br><br><br>
+<br><br><br><br>
 
 <h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnQ3dGNrajZkZ2tveXVmaGdlajM4cHZjaWs0aTllbjFyN3F2eTlxaSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/irqs3YhRKm1d64xmFu/giphy.gif" width="45" style="vertical-align: middle;"> Technologies & Tools</h2>
 
@@ -34,8 +34,6 @@
     <a href="mailto:soliber.dev@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/sofia-libertad-montoya-herrera-9373ba2ab/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 </p>
-
-<br>
 
 <h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnY2NnFnOWc2MDNkcjhlc2ZtYmo5Nzc5ZWhxdHdvZXhnbjdzbGpwNSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/q04LWeH7IDaZsDkBkf/giphy.gif" width="35" style="vertical-align: middle;"> A quote that inspires me</h2>
 <p align="center">
