@@ -2,10 +2,9 @@
 
 <h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFyMnB1Z3llcTN0dms4Z254NXBydnpkZWNrczBma3dnOGxheGYxZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QXPqYpSyBIMjBTtBbl/giphy.gif" width="45">  A passionate Front-End Developer based in Colombia</h2>
 
+<img align="right" alt="Sofia's gif" width="260" src="https://i.postimg.cc/Wz2LPFVF/sofi-without-bg.gif">
+
 <br><br>
-
-<img align="right" alt="Sofia's gif" width="240" src="https://i.postimg.cc/Wz2LPFVF/sofi-without-bg.gif">
-
 
 - 🎓 I'm **Sofia Libertad**, a Mechatronics Engineer based in Colombia.
 
@@ -15,6 +14,7 @@
 
 - 💡 Always curious, always learning.
 
+<br><br><br>
 <h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnQ3dGNrajZkZ2tveXVmaGdlajM4cHZjaWs0aTllbjFyN3F2eTlxaSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/irqs3YhRKm1d64xmFu/giphy.gif" width="45"> Technologies & Tools</h2>
 <br>
 <div align="center">
