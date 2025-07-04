@@ -4,7 +4,7 @@
 
 <br>
 
-<img align="right" alt="Sofia's gif" width="280" src="https://i.postimg.cc/Wz2LPFVF/sofi-without-bg.gif">
+<img align="right" alt="Sofia's gif" width="240" src="https://i.postimg.cc/Wz2LPFVF/sofi-without-bg.gif">
 
 
 - 🎓 I'm **Sofia Libertad**, a Mechatronics Engineer based in Colombia.
@@ -15,30 +15,22 @@
 
 - 💡 Always curious, always learning.
 
-<br>
-
 <h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnQ3dGNrajZkZ2tveXVmaGdlajM4cHZjaWs0aTllbjFyN3F2eTlxaSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/irqs3YhRKm1d64xmFu/giphy.gif" width="45"> Technologies & Tools</h2>
-
 <br>
-
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind" />
     <img src="https://skillicons.dev/icons?i=git,github,postman,figma,ps,arduino,cpp" />
 </div>
-
 <br>
-
 <h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3hhdTJqMHk5aHByazVjZmo0ODJicXJyYjdjNXk3MGl0MTIzZTM1ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/tAHoHHnLqadXaeqH8K/giphy.gif" width="45"> Let's connect</h2>
-
 <p align="center">
 	<a href="mailto:soliber.dev@gmail.com"><img src="https://i.postimg.cc/W48cvd0J/Gmail-icon-2020-svg.webp" alt="Gmail Icon" width="50"/></a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/sofia-libertad-montoya-herrera-9373ba2ab/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" alt="LinkedIn Icon" width="40"></a>
 </p>
-
+<br>
 <h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnY2NnFnOWc2MDNkcjhlc2ZtYmo5Nzc5ZWhxdHdvZXhnbjdzbGpwNSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/q04LWeH7IDaZsDkBkf/giphy.gif" width="35"> A quote that inspires me</h2>
 <p align="center">
     <em>"The only way to do great work is to love what you do ❤️." — Steve Jobs</em>
 </p>
-
 <img width=100% alt="Wavy footer" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=0:FFE8ED,37:F7CBD8,100:FA91B4&reversal=false&fontAlignY=37&fontSize=51&section=footer"/>
