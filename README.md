@@ -15,7 +15,7 @@
 
 - 💡 Always curious, always learning.
 
-<br><br><br><br>
+<br><br>
 
 <h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnQ3dGNrajZkZ2tveXVmaGdlajM4cHZjaWs0aTllbjFyN3F2eTlxaSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/irqs3YhRKm1d64xmFu/giphy.gif" width="45" style="vertical-align: middle;"> Technologies & Tools</h2>
 
