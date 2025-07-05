@@ -30,7 +30,7 @@
 </p>
 <br>
 <h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnY2NnFnOWc2MDNkcjhlc2ZtYmo5Nzc5ZWhxdHdvZXhnbjdzbGpwNSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/q04LWeH7IDaZsDkBkf/giphy.gif" width="35"> A quote that inspires me</h2>
-<h4 align="center">
+<h3 align="center">
     <em>"The only way to do great work is to love what you do ❤️." — Steve Jobs</em>
-</h4>
+</h3>
 <img width=100% alt="Wavy footer" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=0:FFE8ED,37:F7CBD8,100:FA91B4&reversal=false&fontAlignY=37&fontSize=51&section=footer"/>
