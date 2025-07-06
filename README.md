@@ -16,7 +16,7 @@
   
 - 🌍 I speak both **English** and **Spanish**, feel free to reach out in either!
 
-<br><br><br>
+<br><br>
 <h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnQ3dGNrajZkZ2tveXVmaGdlajM4cHZjaWs0aTllbjFyN3F2eTlxaSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/irqs3YhRKm1d64xmFu/giphy.gif" width="45"> Technologies & Tools</h2>
 <br>
 <div align="center">
